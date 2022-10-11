@@ -4,13 +4,15 @@ public class User {
     private String namamatkul;
     private String dikumpul;
 
-    public User(String namamatkul) {
+    public User(String namamatkul, String dikumpul) {
         this.namamatkul = namamatkul;
         this.dikumpul = dikumpul;
     }
 
+
     public String getNamamatkul() {
         return namamatkul;
+
     }
 
     public void setNamamatkul(String namamatkul) {
