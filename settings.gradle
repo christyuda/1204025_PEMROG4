@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "ONEMORSE"
+rootProject.name = "SEVENMORSE"
 include ':app'

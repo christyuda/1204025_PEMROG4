@@ -1,4 +1,4 @@
-package ulbi.ac.id.onemorse;
+package id.ac.ulbi.sevenmorse;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ulbi.ac.id.onemorse", appContext.getPackageName());
+        assertEquals("id.ac.ulbi.sevenmorse", appContext.getPackageName());
     }
 }

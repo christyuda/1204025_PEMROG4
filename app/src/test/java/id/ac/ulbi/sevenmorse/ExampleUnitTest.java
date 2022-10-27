@@ -1,4 +1,4 @@
-package ulbi.ac.id.onemorse;
+package id.ac.ulbi.sevenmorse;
 
 import org.junit.Test;
 
